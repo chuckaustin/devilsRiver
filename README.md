@@ -8,4 +8,4 @@ The files 'devils_tiepts.txt' and 'devils_cameras.txt' contain the coordinates o
 
 The files 'sceua.m' and 'cceua.m' are functions used to implement the Shuffled Complex Evolution global optimization routine (SCE-UA). The routine is described in the paper "Effective and efficient global optimization for conceptual rainfall-runoff models" by Duan, Gupta, and Sorooshian, in Water Resources Research, vol 28, pp. 1015-1031, 1992.
 
-The main script, 'stabilizeImagery.m,' was written in MATLAB R2017b, and requires the Image Processing Toolbox. To use the algorithm, simply run the script, keeping the directory structure the same as it appears in the repository. At the end, a stabilized set of images is produced and stored in the folder 'TIFFs - corrected.'
+The main script, 'stabilizeImagery.m,' was written in MATLAB R2017b, and requires the Image Processing Toolbox. To use the algorithm, simply run the script, keeping the directory structure as it appears in the repository. At the end, a stabilized set of images is produced and stored in the folder 'TIFFs - corrected.'
