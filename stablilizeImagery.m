@@ -5,7 +5,7 @@
 % attached to a small UAV. This script follows the methods of the paper
 % "UAV-based monitoring of groundwater inputs to surface waters using an
 % economical thermal infrared camera," submitted by C Abolt et al. to the
-% Journal of Applied Remove Sensing.
+% Journal of Applied Remote Sensing.
 
 % author:       cabolt
 % date:         12.29.2017, Austin TX
