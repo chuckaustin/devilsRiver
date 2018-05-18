@@ -1,6 +1,6 @@
-# devilsRiver
+# Devils River
 
-This repository contains data and code used in the paper "UAV-based monitoring of groundwater inputs to surface waters using an economical thermal infrared camera," submitted by Abolt *et al.* to the Journal of Applied Remote Sensing. The paper describes a post-processing method to stabilize thermal imagery captured using a FLIR Vue Pro microbolometer attached to a small UAV. The imagery was collected at a site of groundwater-surface water mixing in the Devils River in west Texas.
+This repository contains data and code used in the paper "UAV-based monitoring of groundwater inputs to surface waters using an economical thermal infrared camera," submitted by Abolt *et al.* to *Optical Engineering*. The paper describes a post-processing method to stabilize thermal imagery captured using a FLIR Vue Pro microbolometer attached to a small UAV. The imagery was collected at a site of groundwater-surface water mixing in the Devils River in west Texas.
 
 The folder 'RawData' includes raw output from the FLIR Vue Pro, provided for completeness. The main script operates on images stored in the folder 'TIFFs - pixel bias removed,' which were produced by subtracting estimated pixel bias from the raw output, using the methods described in the paper.
 
